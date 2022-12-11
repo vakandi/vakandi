@@ -1,7 +1,9 @@
 # 🪶 About Me:
 🧑‍🎓 Currently studying at 1337MED<br>🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=Vakandi&icon=2&color=2)](https://visitcount.itsvg.in)
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira) 
 
@@ -15,5 +17,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vakandi&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vakandi&icon=2&color=2)](https://visitcount.itsvg.in)
+
