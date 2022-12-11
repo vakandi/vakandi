@@ -1,7 +1,6 @@
 # 🪶 About Me:
-🧑‍🎓 Currently studying at 1337MED<br>🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)
-
-![Shell Ninja](https://raw.githubusercontent.com/vakandi/vakandi/main/kisspng-brand-logo-circle-terminal-5ab0c999d6c656.8646870115215353858797.ico)
+🧑‍🎓 Currently studying at 1337MED
+🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vakandi&icon=2&color=2)](https://visitcount.itsvg.in)
