@@ -1,4 +1,4 @@
-# About Me:
+# 🪶 About Me:
 🧑‍🎓 Currently studying at 1337MED<br>🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)
 
 
