@@ -1,5 +1,5 @@
 # :::
-🎓 Currently studying at 1337MED
+🎓 Currently studying at 1337MED<br>
 🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)
 
 ---
