@@ -1,7 +1,7 @@
 # :::
 🎓 Currently studying at 1337MED<br>
 🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)<br>
-🇫🇷🇲🇦
+:fr: :morocco:	
 ---
 [![](https://visitcount.itsvg.in/api?id=Vakandi&icon=2&color=2)](https://visitcount.itsvg.in)
 ---
