@@ -3,11 +3,7 @@
 🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)<br>
 :fr: :morocco:	
 ---
-<br>
-<a href="https://github.com/Y0ung-DST">
-<img src="https://lanyard.cnrad.dev/api/490522699404148756"/>
-</a>
-<img align="left" alt="Y0ung-DST's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vakandi&show_icons=true&theme=chartreuse-dark" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/490522699404148756)](https://discord.com/users/490522699404148756)
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira) 
