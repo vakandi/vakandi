@@ -3,7 +3,7 @@
 🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)<br>
 :fr: :morocco:	
 ---
-[![](https://visitcount.itsvg.in/api?id=Vakandi&icon=2&color=2)](https://visitcount.itsvg.in)
+[![Discord Presence](https://lanyard.cnrad.dev/api/490522699404148756)](https://discord.com/users/490522699404148756)
 ---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira) 
