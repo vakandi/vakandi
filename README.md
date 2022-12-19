@@ -11,10 +11,10 @@
 # 📊 GitHub Stats:
 <div style="content:"";clear:both;display:table;">
   <div style="float:left;width:33.33%;padding:5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vakandi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Snow" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vakandi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Snow" style="width:33%">
   </div>
   <div style="float:left;width:33.33%;padding:5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vakandi&theme=nightowl&hide_border=true&layout=compact" alt="Forest" style="width:100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vakandi&theme=nightowl&hide_border=true&layout=compact" alt="Forest" style="width:33%">
   </div>
 </div>
 
