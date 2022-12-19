@@ -3,8 +3,6 @@
 🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)<br>
 :fr: :morocco:	
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/490522699404148756)](https://discord.com/users/490522699404148756)
----
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira) 
 
@@ -17,5 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vakandi&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+[![Discord Presence](https://lanyard.cnrad.dev/api/490522699404148756)](https://discord.com/users/490522699404148756)
 
 
