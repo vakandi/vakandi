@@ -11,6 +11,8 @@
 # 📊 GitHub Stats:
 ![alt-text-1](https://github-readme-stats.vercel.app/api?username=Vakandi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact "title-1") ![alt-text-2](https://github-readme-streak-stats.herokuapp.com/?user=Vakandi&theme=nightowl&hide_border=true&layout=compact "title-2") ![alt-text-3](https://github-readme-stats.vercel.app/api/top-langs/?username=Vakandi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=makefile,html =60x20 "title-3")
 
+<img src="https://github-readme-stats.vercel.app/api?username=Vakandi&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="425"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vakandi&theme=nightowl&hide_border=true&layout=compact" width="425"/> 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vakandi&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 [![Discord Presence](https://lanyard.cnrad.dev/api/490522699404148756)](https://discord.com/users/490522699404148756)
