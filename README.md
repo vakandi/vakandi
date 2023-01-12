@@ -1,6 +1,6 @@
 # ::::::::::::::::::::::::::::::::::::::::::::
 🎓 Currently studying at 1337MED<br>
-🕵🏻‍♂️ Learning CyberSecurity, Full-Stack Development && Machine Learning(AI)<br>
+🕵🏻‍♂️ CyberSecurity System & Network | Full-Stack Development <br>
 :fr: :morocco:	
 ---
 # 💻 Tech Stack:
