@@ -33,7 +33,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="310"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php" width="270"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi" width="270"/> 
 
 
 ## 🏆 GitHub Trophies
