@@ -1,4 +1,4 @@
-# ::::::::::::::::::::::::::::::::::::::::::::
+# ::::::::::::::::::::::::::::::::::::::::::
 🎓 Currently studying at 1337MED<br>
 🕵🏻‍♂️ CyberSecurity System & Network | Full-Stack Development <br>
 :fr: :morocco:	
