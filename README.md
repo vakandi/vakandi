@@ -33,7 +33,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="320"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php" width="270"/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=S,A,AA,AAA,B&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira-48137b25a) 
 
