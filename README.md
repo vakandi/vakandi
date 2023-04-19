@@ -30,7 +30,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="320"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php" width="270"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="320"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php,roff" width="270"/>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
