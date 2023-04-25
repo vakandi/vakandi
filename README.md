@@ -34,11 +34,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="320"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php,roff" width="270"/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage" alt="vakandi" /></a> </p>
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B&title=MultiLanguage,Commits,Repositories,Followers&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
 [![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage)](https://github.com/vakandi)
 
 
