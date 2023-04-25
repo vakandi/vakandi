@@ -3,6 +3,11 @@
 🕵🏻‍♂️ CyberSecurity System & Network | Full-Stack Development <br>
 :fr: :morocco:	
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakandi" alt="vakandi" /></a> </p>
+
+
+
 # 💻 Tech Stack:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
