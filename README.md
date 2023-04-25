@@ -37,3 +37,5 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/490522699404148756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wael-bousfira-48137b25a) 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vakandi&label=Profile%20views&color=0e75b6&style=flat" alt="vakandi" /> </p>
