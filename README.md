@@ -36,7 +36,7 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage" alt="vakandi" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage)](https://github.com/vakandi)
+![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage)](https://github.com/vakandi)
 
 
 ## 🌐 Socials:
