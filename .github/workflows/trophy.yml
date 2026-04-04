@@ -19,7 +19,7 @@ jobs:
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=vakandi&theme=onedark&rank=S,SS,SSS,A,AA,AAA&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Followers,Issues,Pull%20Requests,Reviews,Stars,MultiLanguage,Experience,Organizations,LongTimeUser'
+          options: 'username=vakandi&theme=onedark&column=8&margin-w=8&margin-h=8'
           path: .github/assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
