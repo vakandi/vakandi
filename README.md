@@ -34,9 +34,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vakandi&theme=nightowl&hide_border=true&layout=compact&count_private=true" width="320"/> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vakandi&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=makefile,html,php,roff" width="270"/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&rank=SSS,SS,S,A,AA,AAA&date_format=j%20M%5B%20Y%5D)](https://github.com/vakandi)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vakandi&theme=onedark&title=MultiLanguage,Followers)](https://github.com/vakandi)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/trophy.svg">
+  <img src=".github/assets/trophy.svg" alt="GitHub Trophies">
+</picture>
 
 
 ## 🌐 Socials:
