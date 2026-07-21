@@ -1,5 +1,5 @@
 # ::::::::::::::::::::::::::::::::::::::::::
-🎓 Currently studying at 1337MED<br>
+🎓 Serial Saas Founder<br>
 🕵🏻‍♂️ Software Developper | Full-Stack Development <br>
 :fr: :morocco:	
 ---
